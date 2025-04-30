@@ -3,11 +3,11 @@ name: CI_CD_FW
 on:
   push:
     branches:
-      - main
+      - develop 
   workflow_dispatch:
 
 jobs:
   use-reusable-workflow:
-    uses: sarafogo/pipeline_templates/.github/workflows/pipeline_dotnetfw.yml@main
+    uses: sarafogo/pipeline_templates/.github/workflows/pipeline_dotnetfw.yml@develop
     with:
       dotnet-version: '4.7.x'
