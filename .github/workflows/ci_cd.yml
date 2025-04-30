@@ -10,4 +10,4 @@ jobs:
   use-reusable-workflow:
     uses: sarafogo/pipeline_templates/.github/workflows/pipeline_dotnetfw.yml@main
     with:
-      dotnet-version: '8.0.x'
+      dotnet-version: '4.7.x'
