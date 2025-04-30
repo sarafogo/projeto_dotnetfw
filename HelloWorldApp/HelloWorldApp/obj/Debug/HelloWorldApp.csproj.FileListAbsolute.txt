@@ -1,0 +1,7 @@
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\sara.f.silva.simao\Documents\cliente\projeto_dotnetfw\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
